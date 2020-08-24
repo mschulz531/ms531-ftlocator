@@ -1,2 +1,3 @@
 # ms531-ftlocator
-this is my readme
+San Francisco Food Truck Locator API
+
